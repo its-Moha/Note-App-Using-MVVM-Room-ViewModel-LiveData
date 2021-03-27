@@ -14,8 +14,10 @@ Together,this whole structure constitues an MVVM (Model-View-ViewModel) architec
 ⚪️ LiveData\
 ⚪️ ViewModel\
 ⚪️ ListAdapter for animations on data changes\
-⚪️ Repository for managing multiple data sources.
-⚪️ swipe to delete function on the RecyclerView. Utilizes recent ListAdapter library to create animations possible on dataset changes.
+⚪️ Repository for managing multiple data sources\
+⚪️ Passing data between activities using intent extras\
+⚪️ swipe to delete function on the RecyclerView. Utilizes recent ListAdapter library to create animations possible on dataset changes
+
 
 # 📷Screenshots
 
