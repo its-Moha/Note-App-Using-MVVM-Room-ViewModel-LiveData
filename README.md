@@ -4,9 +4,9 @@ A note taking app, using the Android Architecture Component libraries (Room, Vie
 
 #Used Tech
 
-⚪️ Java
-⚪️ MVVM
-⚪️ Room
-⚪️ LiveData
-⚪️ ViewModel
-⚪️ ListAdapter for animations on data changes
+⚪️ Java\
+⚪️ MVVM\
+⚪️ Room\
+⚪️ LiveData\
+⚪️ ViewModel\
+⚪️ ListAdapter for animations on data changes\
