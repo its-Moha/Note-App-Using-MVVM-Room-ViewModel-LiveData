@@ -4,6 +4,8 @@ A note taking app, using the Android Architecture Component libraries (Room, Vie
 The data will be stored in an SQLite database and supports insert, read, update and delete operations.\
 Together,this whole structure constitues an MVVM (Model-View-ViewModel) architecture, which follows the single responsibility and separation of concerns principles.
 
+
+
 # Used Tech
 
 ⚪️ Java\
@@ -12,3 +14,9 @@ Together,this whole structure constitues an MVVM (Model-View-ViewModel) architec
 ⚪️ LiveData\
 ⚪️ ViewModel\
 ⚪️ ListAdapter for animations on data changes\
+⚪️ Repository for managing multiple data sources.
+⚪️ swipe to delete function on the RecyclerView. Utilizes recent ListAdapter library to create animations possible on dataset changes.
+
+# 📷Screenshots
+
+
